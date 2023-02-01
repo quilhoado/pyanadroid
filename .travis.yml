@@ -7,4 +7,4 @@ install:
 script: pytest anadroid/test/dummy
 notifications:
   email:
-  - rui.rrua@gmail.com
+  - armindoquilhoado@gmail.com

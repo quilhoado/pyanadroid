@@ -1,17 +1,17 @@
 # AnaDroid
-[![Build Status](https://travis-ci.com/RRua/pyAnaDroid.svg?branch=main)](https://travis-ci.com/RRua/pyAnaDroid)
+[![Build Status](https://travis-ci.com/xx/pyAnaDroid.svg?branch=main)](https://travis-ci.com/xxx)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![PyPI version](https://badge.fury.io/py/anadroid.svg)](https://badge.fury.io/py/anadroid)
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/anadroid)
-[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/anadroid)
-[![DOI](https://zenodo.org/badge/459944500.svg)](https://zenodo.org/badge/latestdoi/459944500)
+[![PyPI version](https://badge.fury.io/py/xxx.svg)](https://badge.fury.io/py/xxx)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/xxx)
+[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/xxxx)
+[![DOI](https://zenodo.org/badge/xxxx.svg)](https://zenodo.org/badge/latestdoi/xxxx)
 
 
 
 Anadroid is a tool capable of automating the process of analyzing and benchmarking Android applications' energy consumption, using state-of-the-art energy analysis tools. Anadroid can be configured to use different energy profilers and test frameworks in its execution pipeline, being able to perform automatic instrumentation and building of application source code. It can be used to perform both white-box and black-box testing.
 ## Documentation
 
-https://greensoftwarelab.github.io/PyAnaDroid/anadroid.html#
+(Ommited)
 
 ## Use cases
 - Application Benchmarking: Replicating test work/procedures on different applications to carry out comparative studies of energy consumption.
@@ -47,13 +47,13 @@ By default, Anadroid is configured to perform white-box testing of applications,
 
 ## Using python-pip
 ```
-$ pip install anadroid
+$ pip install xxxx
 ```
 
 ## From sauce
 
 ```
-$ git clone --recurse-submodules https://github.com/greensoftwarelab/pyanadroid.git
+$ git clone --recurse-submodules https://github.com/quilhoado/pyanadroid.git
 ```
 
 
